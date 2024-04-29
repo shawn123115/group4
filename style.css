@@ -1,0 +1,25 @@
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 450px;
+    padding-top: 30px;
+    
+}
+body{
+    background-color: rgba(202, 98, 155, 0.336);
+}
+.content{
+    font-size: 3rem;
+    padding-left: 450px;
+    font-weight: bold;
+    color: #080808;
+    font-style: italic;
+    
+}
+.container{
+    padding-left: 130px;
+    font-size: 30px;
+}
+
+
